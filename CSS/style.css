@@ -1,0 +1,20 @@
+body {
+    background-color: #333;
+    color: white;
+}
+
+a {
+    color: darksalmon;
+}
+
+h1 {
+    color: darkkhaki;
+}
+
+.intro {
+    font-size: 45px;
+}
+
+#mars-title {
+    color: red;
+}
