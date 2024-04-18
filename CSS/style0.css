@@ -10,14 +10,24 @@ header {
     background: white;
     color: #333;
     width: 100px;
-
+    margin: 50px 100px;
+    padding: 20px 30px 40px 50px;
+    border-bottom-color: blue;
+    border-width: 10px;
+    border-style: groove;
 }
 
 
 main {
-
+    margin-left: 100px;
+    margin-bottom: 100px;
+    padding: 20px;
     background: yellow;
     color: black;
-    width: 200px;
-    height: 200px;
+    border: solid 5px purple    
+    
+}
+
+h2 {
+    background-color: aqua;
 }
