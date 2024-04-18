@@ -17,7 +17,6 @@ main {
     border: solid 5px rgb(2, 68, 46);
     margin: 0 auto;
     
-    
 }
 
 
@@ -32,8 +31,6 @@ footer {
 }
 
 
-
-
 body {
     background-color: rgb(224, 247, 239);
     margin: 0;
@@ -41,4 +38,16 @@ body {
 
 img{
     width: 100%;
+}
+
+.columns {
+
+    display: flex;
+}
+
+.column {
+
+    border: solid 2px rgb(115, 230, 115);
+
+    padding: 25px;
 }
